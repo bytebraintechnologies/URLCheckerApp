@@ -1,0 +1,5 @@
+com.example.urlchecker.test.app-androidTest-0 C:\Users\jpukg\Downloads\URLCheckerApp\app\build\generated\res\resValues\androidTest\debug
+com.example.urlchecker.test.app-mergeDebugAndroidTestResources-1 C:\Users\jpukg\Downloads\URLCheckerApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.urlchecker.test.app-mergeDebugAndroidTestResources-2 C:\Users\jpukg\Downloads\URLCheckerApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.urlchecker.test.app-debugAndroidTest-3 C:\Users\jpukg\Downloads\URLCheckerApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.example.urlchecker.test.app-jetified-core-1.6.1-4 C:\Users\jpukg\scoop\apps\gradle\current\.gradle\caches\transforms-4\d2458be0db1a8e7f69428280cfc94332\transformed\jetified-core-1.6.1\res
